@@ -7,7 +7,6 @@ First of all, when you enter the website, a 4-second gift is greeted as the open
 Secondly, we chose a tab logo and added it next to the title.
 
 We added a logo representing the business to the left part of the banner on the screen that opens.We added the menu to the right part of the banner.
-
 We have divided it into 6 subheadings as home, about, gallery, guestbook, blog, call us.We linked all of these sub-headings to the relevant parts of the site with the in-site link command.
 * When we click on the home button, a photo appears for the login page and the preview.
 * About depends on the section with the business information at the bottom.
