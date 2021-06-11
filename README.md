@@ -15,4 +15,4 @@ We have divided it into 6 subheadings as home, about, gallery, guestbook, blog, 
 * Call Us; connected to a specified number and calls directly if it is allowed when clicked.
 Another part is the part to make a reservation for those who want to talk to the operator. 
 Finally, there is a map with the address of the business.
-We attach the project in ".zip" format because the file size is too large.
+> We attach the project in ".zip" format because the file size is too large.
